@@ -2,7 +2,7 @@ import React from 'react'
 
 function DummyCmponent() {
   return (
-    <div>DummyCmponent</div>
+    <div>This will be pushed through feature branch</div>
   )
 }
 
